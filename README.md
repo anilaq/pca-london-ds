@@ -25,6 +25,27 @@ By the end of the lesson, students should be able to:
 * [ ] Interpret the outcome of running the example PCA
 * [ ] Critize the advantages and disadvantages of using PCA
 
+## Outline
+
+> Lesson Plan 90 Minutes, ;45 Mark Break
+
+1. Slides (30 Minutes)
+	1. Data Analysis Problem (5 min) 
+	2. Correlation in Multiple Dimensions (5 minutes) 
+	3. Curse of Dimensionality + DQ (10 minutes) 
+	4. Theory --> Practice is now Practice no theory (10 minutes) 
+2. Break (10 minutes)
+3. Python Hands On (45 minutes) 
+	1. Run Through Code Example (20 minutes) 
+	2. Student Try PCA on iris (25 minutes)  
+4. Exit Ticket (15 minutes) 
+	1. Students Complete Exit Ticket (5 minutes) 
+	2. Group Review Exit Ticket (10 minutes)  
+
+
+
+
+
 
 
 
