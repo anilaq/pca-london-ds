@@ -1,7 +1,7 @@
 # README 
 
 This repository contains notes for Flatiron School's London Campus PCA Lecture.
-Original materials for this repository were created by [David John Baker](github.com/davidjohnbaker1).
+Original materials for this repository were created by [David John Baker](https://github.com/davidjohnbaker1).
 Coding materials for this lesson were originally taken from [this exercise](https://data.world/exercises/pca-exercise-1-solutions) and have been modified.
 
 
