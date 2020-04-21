@@ -1,5 +1,36 @@
 PCA Lesson
 
+Data Reduction 
+§
+
+New Outline 
+	Unsupervised Learning
+	Clustering
+	Linear Combinations of Variables 
+	Reorganize what data space looks like with rotation
+	(Video from Stat Quest)
+	Math from stat quest
+
+Data Reduction 
+
+* Unsupervised Learning 
+* Curse of Dimensonality
+
+PCA 
+
+* Linear Combinations of Variables 
+* Get many correlations, reduce down 
+* How to interpret dimensions 
+
+Running PCA
+
+* Import PCA
+* Scale Data
+* PC explain all variance
+* Cumsum will add them all up 
+* 
+
+
 WTF PCA?
 	Unsupervised Learning
 		How many scatter plots can you even make (p. 375)

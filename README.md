@@ -45,6 +45,9 @@ By the end of the lesson, students should be able to:
 
 
 
+## External 
+
+* [Nice 20 Min Explanation](https://www.youtube.com/watch?v=_UVHneBUBW0)
 
 
 
